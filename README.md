@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Swetha Jagadeesh
 - 🌱 I'm gaining practical insights as a DevOps intern at SloopStash.
-- 📫 You can connect me at linkedin.com/in/swetha-jagadeesh
+- 📫 You can connect me at https://www.linkedin.com/in/swetha-jagadeesh/
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
