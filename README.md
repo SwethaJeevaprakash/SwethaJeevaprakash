@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Swetha Jagadeesh
-- 🌱 I'm gaining practical insights as a DevOps intern at SloopStash.
+- 🌱 I'm gaining practical insights as an Associate Fullstack Developer at SloopStash.
 - 📫 You can connect me at https://www.linkedin.com/in/swetha-jagadeesh/
 
 
